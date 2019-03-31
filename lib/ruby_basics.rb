@@ -17,7 +17,7 @@ def return_a_value
   return "Nice"
 end
 
-def last_evaluated_value(value)
+def last_evaluated_value
   return value
 end
 
